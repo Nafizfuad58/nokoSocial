@@ -226,9 +226,6 @@ main .container .left .profile{
 .left .sidebar .active{
   background: var(--color-light);
 }
-.left .sidebar .active i, .left .sidebar .active h4{
-  color: var(--color-primary);
-}
 .left .sidebar .active::before {
   display: block;
   content: '';
