@@ -103,9 +103,6 @@ nav{
   justify-content: space-between;
   align-items: center;
 }
-.logo a{
-  color: var(--color-dark);
-}
 .search-bar{
   background: var(--color-light);
   border-radius: var(--border-radius);
@@ -228,9 +225,6 @@ main .container .left .profile{
 }
 .left .sidebar .active{
   background: var(--color-light);
-}
-.left .sidebar .active i, .left .sidebar h4 {
-  color: var(--color-dark);
 }
 .left .sidebar .active i, .left .sidebar .active h4{
   color: var(--color-primary);
